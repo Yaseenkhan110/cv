@@ -1,0 +1,42 @@
+<html>
+   <head>
+        <title>
+		     YASEEN HOME
+        </title>		
+   </head>
+   <body>
+      <h1>
+         THIS is my tag h1
+	  </h1>
+	  <h2>
+         THIS is my tag h2
+	  </h2>
+	  <h3>
+         THIS is my tag h3
+	  </h3>
+	  <h4>
+         THIS is my tag h4
+	  </h4>
+	  <h5>
+         THIS is my tag h5
+	  </h5>
+	  <h6>
+         THIS is my tag h6
+	  </h6>
+	  <h7>
+         THIS is my tag h6
+	  </h7>
+	  <h8>
+         THIS is my tag h6
+	  </h8>
+	  <p>
+       <em>THIS IS MY TAGS WHICH IS INSERTED IN THE CLASS</em>
+	   <strong>THIS IS MY TAGS WHICH IS INSERTED IN THE CLASS
+	   THIS IS MY TAGS WHICH IS INSERTED IN THE CLASS
+	   THIS IS MY TAGS WHICH IS INSERTED IN THE CLASS
+	   THIS IS MY TAGS WHICH IS INSERTED IN THE CLASS</strong>
+   </p>
+   
+   
+   </body>
+</html>
